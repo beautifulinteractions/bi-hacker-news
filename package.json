@@ -1,0 +1,25 @@
+{
+  "name": "bi-hacker-news",
+  "version": "1.0.0",
+  "description": "Server side rendered hacker news clone, powered by React/Next.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautifulinteractions/bi-hacker-news.git"
+  },
+  "keywords": [
+    "esx",
+    "ssr",
+    "next.js",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beautifulinteractions/bi-hacker-news/issues"
+  },
+  "homepage": "https://github.com/beautifulinteractions/bi-hacker-news#readme"
+}
