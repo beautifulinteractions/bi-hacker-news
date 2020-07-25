@@ -1,0 +1,21 @@
+.storyBox {
+  padding: 0.6rem;
+  background: #F7F5FB;
+  color: #30323D;
+  margin-bottom: 1.2rem;
+  border-radius: 0.6rem;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+
+  a {
+    text-decoration: none;
+
+    &:visited {
+      color: #30323D;
+    }
+  }
+
+  h3 {
+    color: #30323D;
+    margin: 0 0 0.5rem;
+  }
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a11b4fe4-d8cb-4311-a22e-4b7c8940897e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/API/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout/layout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Nav/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Nav/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Nav/nav.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StoryBox/StoryBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StoryBox/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StoryBox/storybox.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/beststories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fBV4y8OXGQS0iHRmvHEskq7GhF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a11b4fe4-d8cb-4311-a22e-4b7c8940897e" name="Default Changelist" comment="" />
+      <created>1595691285489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595691285489</updated>
+      <workItem from="1595691286929" duration="5932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1592" height="839" key="DiffContextDialog" timestamp="1595693036197">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state x="100" y="123" width="1592" height="839" key="DiffContextDialog/0.23.1792.1039@0.23.1792.1039" timestamp="1595693036197" />
+    <state x="100" y="123" width="1592" height="839" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1595693036197">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state x="100" y="123" width="1592" height="839" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1792.1039@0.23.1792.1039" timestamp="1595693036197" />
+    <state x="561" y="253" width="670" height="676" key="search.everywhere.popup" timestamp="1595695020081">
+      <screen x="0" y="23" width="1792" height="1039" />
+    </state>
+    <state x="561" y="253" width="670" height="676" key="search.everywhere.popup/0.23.1792.1039@0.23.1792.1039" timestamp="1595695020081" />
+  </component>
+</project>

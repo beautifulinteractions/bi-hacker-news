@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+$backgroundColor: #30323D;
+$text: #F7F5FB;
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  padding: 1rem;
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: scroll;
+  background-color: $backgroundColor;
+  color: $text;
+}
