@@ -2,9 +2,10 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next-esx start"
   },
   "dependencies": {
+    "esx": "^2.3.3",
     "next": "latest",
     "next-esx": "0.0.0",
     "prop-types": "^15.7.2",

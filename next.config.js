@@ -1,5 +1,5 @@
 const withEsx = require('next-esx')();
 
-module.exports = ({
+module.exports = withEsx({
   poweredByHeader: false,
 });

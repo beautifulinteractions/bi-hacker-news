@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11b4fe4-d8cb-4311-a22e-4b7c8940897e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout/layout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Nav/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Nav/nav.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/StoryBox/StoryBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/StoryBox/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/StoryBox/storybox.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/beststories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595691285489</updated>
-      <workItem from="1595691286929" duration="5932000" />
+      <workItem from="1595691286929" duration="6168000" />
+      <workItem from="1595700797190" duration="909000" />
     </task>
     <servers />
   </component>
